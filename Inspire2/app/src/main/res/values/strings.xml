@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Inspire</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_quotes">Quotes</string>
+    <string name="q1">A man who waits for a cloudless day to mow his hay may never dry it in time.</string>
+    <string name="q2">Don\'t pull up your garden to see if it\'s growing.</string>
+    <string name="q3">Blowing at the smoke doesn\'t help if the chimney is plugged.</string>
+    <string name="q4">The problem with a little sin is that it usually grows into a big one.</string>
+    <string name="q5">Bend the branch while it is young.</string>
+    <string name="q6">Lying in bed dreaming never got the work done.</string>
+    <string name="q7">Give a man bread and he will eat for a day. Teach him how to plow and he will feed his family for the rest of his life.</string>
+    <string name="q8">A woman\'s kisses may fade away, but her good cooking rarely does.</string>
+    <string name="q9">A round wife and a full barn are the signs of good success.</string>
+    <string name="q10">If you want to keep a secret, don\'t whisper in your wife\'s ear.</string>
+    <string name="q11">When a person slaps you on the back, he may be trying to help you swallow something.</string>
+    <string name="q12">Death isn\'t the greatest loss in life. It\'s what dies inside of us while we live.</string>
+    <string name="q13">If you want to make your money last, you have to make it first.</string>
+    <string name="q14">Being human is a privilege, not an excuse.</string>
+    <string name="q15">If you must doubt, doubt your doubts, not your beliefs.</string>
+    <string name="q16">The hardest mountains in the world to climb are the ones made out of molehills.</string>
+    <string name="q17">There\'s a difference between good sound reasons and reasons that sound good.</string>
+    <string name="q18">Difficulty is a miracle in its first stage.</string>
+    <string name="q19">Anyone who practices what he preaches doesn\'t have to preach much.</string>
+    <string name="q20">Some people work hard to keep their children from having the problems which made men out of their fathers and women out of their mothers.</string>
+    <string name="q21">Every man must live with the man he makes of himself.</string>
+    <string name="q22">We don\'t realize how wonderful today is until tomorrow.</string>
+    <string name="q23">Our fathers teach us what we should become, our mothers teach us what we are.</string>
+    <string name="q24">Poverty is not a shame unless you are slothful.</string>
+    <string name="q25">Making no choice when we have to choose is itself a choice.</string>
+</resources>
